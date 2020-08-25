@@ -1,4 +1,6 @@
 // teste para código
 // e envio GiT... add . || status || commit -m "description" || push || pull ||
-... teste
+// ... teste
 // SIMULAÇÃO: de introdução de código por outro usuário, para testar git pull
+// ...
+// ** CORREÇÃO 
