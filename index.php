@@ -1,1 +1,3 @@
-// teste para código PHP, e envio GiT... add . || status || commit -m "description" || push || pull ||
+// teste para código
+// e envio GiT... add . || status || commit -m "description" || push || pull ||
+... teste
